@@ -15,7 +15,7 @@ white = (255,255,255)
 red = (255,0,0)
 green = (0,255,0)
 blue = (0,0,255)
-
+randcolor = (12,162,200)
 
 
 gameDisplay = pygame.display.set_mode((display_width,display_height))
